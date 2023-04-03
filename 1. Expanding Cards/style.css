@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.box-1{
+    background-image: url(img/bird-gdbe06ffbc_1920.jpg);
+}
+
+.box-2{
+    background-image: url(img/butterfly-g2a84f0ac6_1920.jpg);
+}
+
+.box-3{
+    background-image: url(img/lighthouse-g34dc0078d_1920.jpg);
+}
+
+.box-4{
+    background-image: url(img/moon-gb1fbe4def_1920.jpg);
+}
+
+.box-5{
+    background-image: url(img/woman-g646d86431_1920.jpg);
+}
+
+.container{
+    display: flex;
+    width: 90vw;
+    justify-content: center;
+}
+
+.panel{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+    height: 80vh;
+    color: #fff;
+    cursor: pointer;
+    width: 3%;
+    min-width: 40px;
+    position: relative;
+    margin: 10px;
+    transition: 0.7s;
+}
+
+.panel h3{
+    font-size: 24px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    opacity: 0;
+    width: 30%;
+}
+
+.panel.active{
+    width: 30%;
+}
+
+.panel.active h3{
+    opacity: 1;
+}
