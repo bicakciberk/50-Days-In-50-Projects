@@ -2,3 +2,4 @@
 | Name                                                | Live |
 | --------------------------------------------------- | ---------- |
 | Expanding Cards | [Click](https://adorable-malabi-fdf070.netlify.app/)    |
+| Rotatin Navigation | [Click](https://cozy-panda-3a894f.netlify.app)    |
