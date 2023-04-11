@@ -5,3 +5,4 @@
 | Rotatin Navigation | [Click](https://cozy-panda-3a894f.netlify.app)    |
 | Hidden Search | [Click](https://endearing-dieffenbachia-04a387.netlify.app/)    |
 | Blurry Loading | [Click](https://venerable-puffpuff-054638.netlify.app)    |
+| Scroll Animation | [Click](https://frabjous-queijadas-281e0e.netlify.app)    |
