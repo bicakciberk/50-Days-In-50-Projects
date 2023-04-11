@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow-x: hidden;
+    outline: none;
+    background-color: #efedd6;
+}
+
+h1 {
+    margin: 10px;
+}
+
+.box {
+    background-color: steelblue;
+    color: #fefefe;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+    transform: translateX(400%);
+}
+
+.box:nth-of-type(even){ /* çift olan elementleri seçiyor */
+    transform: translateX(-400%);
+}
+
+.box.show{
+    transform: translateX(0);
+    transition: 0.4s;
+}
