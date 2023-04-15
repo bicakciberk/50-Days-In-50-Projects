@@ -6,3 +6,4 @@
 | Hidden Search | [Click](https://endearing-dieffenbachia-04a387.netlify.app/)    |
 | Blurry Loading | [Click](https://venerable-puffpuff-054638.netlify.app)    |
 | Scroll Animation | [Click](https://frabjous-queijadas-281e0e.netlify.app)    |
+| Split Landing Page | [Click](https://teal-donut-ac14fe.netlify.app/)    |
